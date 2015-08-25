@@ -10,9 +10,9 @@ layout: default
   </div>
 
   <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }} by {{ site.data.authors.[page.author_github].name }}
+    Written on {{ page.date | date: "%B %e, %Y" }} by
     <a href="www.github.com/{{site.data.authors.[page.author_github].github}}">
-  <i class="ico-github"></i>
+      {{ site.data.authors.[page.author_github].name }}
     </a>
   </div>
 
