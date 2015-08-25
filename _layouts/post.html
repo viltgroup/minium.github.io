@@ -11,6 +11,9 @@ layout: default
 
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }} by {{ site.data.authors.[page.author_github].name }}
+    <a href="www.github.com/{{site.data.authors.[page.author_github].github}}">
+  <i class="ico-github"></i>
+    </a>
   </div>
 
   {% include disqus.html %}

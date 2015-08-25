@@ -10,4 +10,4 @@ This blog is intended for information about the development process of Minium as
 
 ### Contact us
 
-[email@domain.com](mailto:minium@vilt-group.com)
+[minium@vilt-group.com](mailto:minium@vilt-group.com)
