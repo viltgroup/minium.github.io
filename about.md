@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+[Minium](http://minium.vilt.io/) is a framework developed at VILT that helps you test your web application the same way a human would.
 
-### More Information
+This blog is intended for information about the development process of Minium as well as to present some use cases, guidelines and demos.
 
-A place to include any other types of information that you'd like to include about yourself.
+### Contact us
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:minium@vilt-group.com)
