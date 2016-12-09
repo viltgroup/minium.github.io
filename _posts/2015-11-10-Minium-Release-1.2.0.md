@@ -1,8 +1,9 @@
 ---
-layout: post
 title: Minium Release 1.2.0
-categories: [Minium,release]
-author_github: raphaelrodrigues
+categories:
+  - Minium
+  - release
+author: raphaelrodrigues
 ---
 
 Hi all,

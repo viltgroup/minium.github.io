@@ -1,11 +1,13 @@
 ---
-layout: post
 title: Minium blog is up and running!
-categories: [Minium,release]
-author_github: mariolameiras
+#layout: post
+categories:
+  - Minium
+  - release
+author: mariolameiras
 ---
 
-Hi all,
+Hello World,
 
 [Minium 1.1.1](https://github.com/viltgroup/minium-tools/releases/) has just been released.
 
