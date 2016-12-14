@@ -17,6 +17,7 @@ The new release is available at https://github.com/viltgroup/minium-developer/re
 
 
 Release Notes:
+
   - Updated Selenium version (v2.53.1).
   - Added Minium Recorder feature to ease and accelerate the creation of Minium tests.
 

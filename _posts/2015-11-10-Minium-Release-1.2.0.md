@@ -14,6 +14,7 @@ The new release is available at https://github.com/viltgroup/minium-tools/releas
 
 
 Release Notes:
+
   - Load data in Cucumber from an external resource (http://minium.vilt.io/docs/load-external-data-cucumber/)
   - Added Context Menu to Editor
   - Search for step definitions

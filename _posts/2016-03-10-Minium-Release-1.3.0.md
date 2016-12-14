@@ -14,6 +14,7 @@ The new release is available at https://github.com/viltgroup/minium-developer/re
 
 
 Release Notes:
+
     - Updated Selenium and Spring Boot versions.
     - Setup Firefox WebDriver profile through the .yml configuration file.
 
