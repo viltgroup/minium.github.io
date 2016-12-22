@@ -15,8 +15,8 @@ The new release is available at https://github.com/viltgroup/minium-developer/re
 
 Release Notes:
 
-    - Updated Selenium and Spring Boot versions.
-    - Setup Firefox WebDriver profile through the .yml configuration file.
+  - Updated Selenium and Spring Boot versions.
+  - Setup Firefox WebDriver profile through the .yml configuration file.
 
 The documentation has also been updated:
 And there is a new training section: http://minium.vilt.io/docs/minium-training/minium-core-js/
