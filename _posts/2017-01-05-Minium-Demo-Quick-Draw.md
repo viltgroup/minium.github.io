@@ -6,7 +6,7 @@ header:
 categories:
   - Minium
   - demo
-author: rui.figueira
+author: ruifigueira
 ---
 
 This little video shows Minium drawing a penguin in Google AI experiment 'Quick, Draw!':
@@ -21,4 +21,4 @@ Minium will use some auxiliary sites to "learn" how to draw a penguin:
 * Minium then simplifies lines so that they have less points and therefore are quickier to draw. For that, it uses the javascript library [Simplify.js by Vladimir Agafonkin](http://mourner.github.io/simplify-js)
 * Minium can now go back into 'Quick, Draw' and draw points using mouse interactions with offsets based on line points
 
-You can check the code at https://github.com/viltgroup/minium-quickdraw-demo.
+You can check the code at <https://github.com/viltgroup/minium-quickdraw-demo>.
