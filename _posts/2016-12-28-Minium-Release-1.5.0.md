@@ -6,10 +6,10 @@ header:
 categories:
   - Minium
   - release
-author: zem3
+author: josemorgado
 ---
 
-[Minium 1.5.0](https://github.com/viltgroup/minium-developer/releases/tag/minium-developer-1.5.0) has just been released. This new version brings the following enhancements in relation to the previous release:
+[Minium 1.5.0](https://github.com/viltgroup/minium-developer/releases/tag/minium-developer-1.5.0) has just been released. This new version brings the following enhancements in relation to the previous one:
 
 * Minium Developer is now available as a native application for Linux, macOS and Windows. In a future post, we will give more details about how we did it.
 * Upgrade to Selenium 3. One of the benefits of this upgrade is that you can now run your tests on the latest versions of Firefox. Firefox 48 and later require the geckodriver, but you don't need to worry about it because Minium Developer takes care of downloading and configuring it for you.
